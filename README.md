@@ -1,7 +1,6 @@
 Este repositório contém os programas feitos na iniciação científica sobre geometria diferencial e análise de dados realizada na UFS entre 2023 e 2024.
 
 Aluno: André Luís de Almeida Sousa
-
 Orientador: Gastão Florêncio Miranda Júnior
 
 O objetivo deste trabalho foi analisar formas de calcular distâncias entre pontos de dados de uma amostra discreta. Os métodos usados foram:
